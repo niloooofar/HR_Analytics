@@ -1,9 +1,6 @@
 # HR-Analytics-PowerBI
 HR Data Analytics portfolio project that deals with HR KPIs like Performance tracking, attrition rate. Project involved cleaning, transforming data and visualizing it to create a dashboard. 
 
-##### Visualization Tool: "Microsoft Power BI"
-
-#### DATA VISUALISATION
 
 ##### 1. Entity Relationship Diagram
 
